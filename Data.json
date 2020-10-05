@@ -37,31 +37,31 @@
         "name":"Nehemiah Tatius",
         "id":"06",
         "place":"Surat",
-        "dob" : "21/09/1996",
+        "dob" : "03/05/1996",
         "status": "active"
     },{ 
         "name":"Yiorgos Avraamu",
-        "id":"06",
+        "id":"07",
         "place":"Surat",
         "dob" : "21/09/1996",
         "status": "Inactive"
     },{ 
         "name":"Agapetus",
-        "id":"06",
+        "id":"08",
         "place":"Surat",
-        "dob" : "21/09/1996",
+        "dob" : "22/07/1996",
         "status": "active"
     },{ 
         "name":"Gemariah",
-        "id":"06",
+        "id":"09",
         "place":"Surat",
-        "dob" : "21/09/1996",
+        "dob" : "23/03/1996",
         "status": "Inactive"
     },{ 
         "name":"Ganesha Dubhghall",
-        "id":"06",
+        "id":"10",
         "place":"Surat",
-        "dob" : "21/09/1996",
+        "dob" : "11/09/1996",
         "status": "active"
     }
   
