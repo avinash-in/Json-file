@@ -1,15 +1,44 @@
  [
     { 
         "name":"Avinash",
-        "id":"01"
+        "id":"01",
+        "place":"mehsana",
+        "dob" : "31/08/1999",
+        "status": "active"
     },
     { 
         "name":"Purv",
-        "id":"02"
+        "id":"02",
+        "place":"Ahmedabad",
+        "dob" : "15/08/1998",
+        "status": "Deactive"
     },
     { 
         "name":"Jay",
-        "id":"03"
+        "id":"03",
+        "place":"Gandhingar",
+        "dob" : "21/09/1998",
+        "status": "Deactive"
+    },
+    { 
+        "name":"Samyag",
+        "id":"04",
+        "place":"Gandhingar",
+        "dob" : "21/10/1998",
+        "status": "active"
+    },
+    { 
+        "name":"Smit",
+        "id":"05",
+        "place":"Rajkot",
+        "dob" : "21/09/1996",
+        "status": "active"
+    },{ 
+        "name":"Nehemiah Tatius",
+        "id":"06",
+        "place":"Surat",
+        "dob" : "21/09/1996",
+        "status": "deactive"
     }
 
 ]
