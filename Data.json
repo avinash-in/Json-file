@@ -37,7 +37,7 @@
     { 
         "name":"Nehemiah Tatius",
         "id":"06",
-        "place":"Surat",
+        "place":"Ahmedabad",
         "dob" : "03/05/1996",
         "status": "active"
     },
@@ -51,14 +51,14 @@
     { 
         "name":"Agapetus",
         "id":"08",
-        "place":"Surat",
+        "place":"Ahmedabad",
         "dob" : "22/07/1996",
         "status": "active"
     },
     { 
         "name":"Gemariah",
         "id":"09",
-        "place":"Surat",
+        "place":"Gandhinagar",
         "dob" : "23/03/1996",
         "status": "Inactive"
     },
